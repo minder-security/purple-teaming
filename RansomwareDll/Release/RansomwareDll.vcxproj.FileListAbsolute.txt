@@ -1,0 +1,2 @@
+C:\Users\localuser\Desktop\Projects\PoC\RansomwareDll\Release\RansomwareDll.dll
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\RansomwareDll\Release\RansomwareDll.dll

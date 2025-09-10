@@ -1,0 +1,7 @@
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Debug\DropperEXE.csproj.AssemblyReference.cache
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Debug\DropperEXE.csproj.CoreCompileInputs.cache
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\bin\Debug\DropperEXE.exe.config
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\bin\Debug\DropperEXE.exe
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\bin\Debug\DropperEXE.pdb
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Debug\DropperEXE.exe
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Debug\DropperEXE.pdb

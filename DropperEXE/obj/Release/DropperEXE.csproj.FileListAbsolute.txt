@@ -1,0 +1,14 @@
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\bin\Release\DropperEXE.exe.config
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\bin\Release\DropperEXE.exe
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\bin\Release\DropperEXE.pdb
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Release\DropperEXE.csproj.CoreCompileInputs.cache
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Release\DropperEXE.exe
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Release\DropperEXE.pdb
+C:\Users\localuser\Desktop\Projects\PoC\DropperEXE\obj\Release\DropperEXE.csproj.AssemblyReference.cache
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\bin\Release\DropperEXE.exe.config
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\bin\Release\DropperEXE.exe
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\bin\Release\DropperEXE.pdb
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\obj\Release\DropperEXE.csproj.AssemblyReference.cache
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\obj\Release\DropperEXE.csproj.CoreCompileInputs.cache
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\obj\Release\DropperEXE.exe
+C:\Users\localuser\Desktop\Projects\PurpleTeaming01\Dev\PoC\DropperEXE\obj\Release\DropperEXE.pdb

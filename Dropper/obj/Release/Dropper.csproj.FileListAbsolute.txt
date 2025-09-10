@@ -1,0 +1,6 @@
+C:\Users\localuser\Desktop\Projects\PoC\Dropper\bin\Release\Dropper.dll
+C:\Users\localuser\Desktop\Projects\PoC\Dropper\bin\Release\Dropper.pdb
+C:\Users\localuser\Desktop\Projects\PoC\Dropper\obj\Release\Dropper.csproj.AssemblyReference.cache
+C:\Users\localuser\Desktop\Projects\PoC\Dropper\obj\Release\Dropper.csproj.CoreCompileInputs.cache
+C:\Users\localuser\Desktop\Projects\PoC\Dropper\obj\Release\Dropper.dll
+C:\Users\localuser\Desktop\Projects\PoC\Dropper\obj\Release\Dropper.pdb
