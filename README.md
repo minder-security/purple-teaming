@@ -13,3 +13,6 @@ During this exercise, I provided my team with a screesnhot, access to Elastic Se
 Tools needed: Detect it Easy (DiE), ILSpy/DNSpy, Ghidra
 
 Difficulty: Beginner
+
+
+<img width="1392" height="867" alt="image" src="https://github.com/user-attachments/assets/c1c89053-1bdf-4f52-b21f-458b0f9d0938" />
